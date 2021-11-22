@@ -25,3 +25,6 @@ network:
  version: 2
 ```
 
+sudo netplan apply 
+
+sudo systemctl restart NetworkManager 
