@@ -1,7 +1,7 @@
 # IP-Static-and-Dynamic
 
 Dynamic 
-```bash
+```yaml
 network:
   ethernets:
     enp1s0:
@@ -10,7 +10,7 @@ network:
 ```
 
 Static
-```bash
+```yaml
 network:
  ethernets:
   enp1s0:
