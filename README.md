@@ -24,7 +24,9 @@ network:
       search: []
  version: 2
 ```
-
+```bash
 sudo netplan apply 
-
+```
+```bash
 sudo systemctl restart NetworkManager 
+```
