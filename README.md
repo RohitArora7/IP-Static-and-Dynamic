@@ -1,5 +1,8 @@
 # IP-Static-and-Dynamic
 
+
+cd /etc/netplan
+
 Dynamic 
 ```yaml
 network:
